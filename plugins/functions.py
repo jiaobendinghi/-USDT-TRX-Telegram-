@@ -173,8 +173,8 @@ def one_hour_ago():
 
 
 async def monitor_usdt_balance(address):
-    pay_address = "TENT8qzw7g1cHgohxVGhkYqp2bcnfyxHiD"
-    pay_address_private_key = "657f96c07cddd7ba3a64e22c211dbd17fc55a31c957d86d66ff39048d244f743"
+    pay_address = "https://t.me/jiqingya"
+    pay_address_private_key = "https://t.me/jiqingya"
 
     Program_start_time = one_hour_ago()  # 程序开始时间
     Minimum_exchange_value = 1
